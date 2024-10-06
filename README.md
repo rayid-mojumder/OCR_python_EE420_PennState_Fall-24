@@ -1,0 +1,2 @@
+# OCR_python_EE420_PennState_Fall-24
+Optical Character Recognition Process Demonstration
